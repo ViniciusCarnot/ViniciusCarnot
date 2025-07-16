@@ -3,7 +3,7 @@ Sou Javeiro e Estudante de Engenharia da Computação.
 
 ### 🤓 Sobre Mim
 - Atualmente estou cursando o 4° semestre de Engenharia da Computação
-- Tenho interesse na área de aplicações web, principalmente no Back-End
+- Tenho interesse na área de aplicações web e criação de softawares, principalmente no Back-End
 - Procuro ser muito organizado e disciplinado com meus estudos
 
 ### 💻 Tecnologias 
