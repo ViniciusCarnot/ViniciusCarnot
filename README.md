@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🤙 Eaí! Eu sou o Vinicius Carnot 
+Sou Javeiro e Estudante de Engenharia da Computação.
 
-<!--
-**ViniciusCarnot/ViniciusCarnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤓 Sobre Mim
+- Atualmente estou cursando o 4° semestre de Engenharia da Computação
+- Tenho interesse na área de aplicações web, principalmente no Back-End
+- Procuro ser muito organizado e disciplinado com meus estudos
 
-Here are some ideas to get you started:
+### 💻 Tecnologias 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+<div align="left">
+  <a href="https://www.linkedin.com/in/vinicius-carnot/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+
+
