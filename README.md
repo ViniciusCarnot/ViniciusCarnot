@@ -1,5 +1,5 @@
 # 🤙 Eaí! Eu sou o Vinicius Carnot 
-Javeiro e Estudante de Engenharia da Computação.
+Desenvolvedor de Software Javeiro 
 
 -------------------------------------------------------------
 ### 🤓 Sobre Mim
