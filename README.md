@@ -3,7 +3,7 @@ Desenvolvedor de Software Javeiro
 
 -------------------------------------------------------------
 ### 🤓 Sobre Mim
-Sou estudante de Engenharia da Computação, e tenho programado e estudado Java desde 2024.
+Sou estudante de Engenharia da Computação no IFSP Piracicaba, e tenho programado e estudado Java desde 2024.
 
 Tenho interesse em desenvolver aplicações web e softwares em geral.
 
@@ -12,6 +12,7 @@ Tenho interesse em desenvolver aplicações web e softwares em geral.
 Backend: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 
 Banco de Dados: 
@@ -23,6 +24,7 @@ Ferramentas:
 
 IDEs:
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 -------------------------------------------------------------
 ### 📞 Contato
